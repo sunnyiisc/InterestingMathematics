@@ -5,25 +5,36 @@
 ## 1. (14th March 2026) Find the 
 
 
-## Solution:
+## Supantha
+### Solution:
 
 
-## Simulation: [click here](/phase-1/q1/)
+### Simulation: [click here](/phase-1/q1/)
+- Output Waveform
+
+## Aditya
+### Solution:
+
+
+### Simulation: [click here](/phase-1/q1/)
 - Output Waveform
 
 ------
 ## 2. (16th March 2026) Find the 
 
 
-## Solution:
+## Supantha
+### Solution:
 
-## Simulation: [click here](/phase-1/q1/)
-- Ouput Waveform
 
-## Solution:
+### Simulation: [click here](/phase-1/q1/)
+- Output Waveform
 
-## Simulation: [click here](/phase-1/q1/)
-- Circuit Diagram
-- Ouput Waveforms
+## Aditya
+### Solution:
+
+
+### Simulation: [click here](/phase-1/q1/)
+- Output Waveform
 
 ------
