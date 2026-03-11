@@ -10,5 +10,7 @@ Questions are self made or are taken reference from somewhere, the following are
 ----------
 ## Phase-1
 Questions on basic mathematics like trigonometry, coordinate geometry, etc. upto class 10.
-- Phase-1: 10 Questions [click here](/phase-1_readme.md)
+- Phase-1: 10 Questions (5 + 5)
+- 5 Questions by Supantha [click here](/phase-1_supantha.md)
+- 5 Questions by Aditya [click here](/phase-1_aditya.md)
 - 14th March'26 to 24th March'26.
