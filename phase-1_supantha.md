@@ -13,12 +13,8 @@
 ### Solution:
 - Pending
 
-
-### Simulation: [click here](/phase-1/q1/)
-- Output Waveform
-
 ------
-## 2. (16th March 2026) Find the 
+## 2. (16th March 2026) Two parabolas have the same focus at $(4,3)$ and their directrices are the x-axis and y-axis, respectively. If these parabolas intersects at points A & B, then find the value of $(AB)^2$. 
 
 
 ## Supantha
