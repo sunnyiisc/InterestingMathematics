@@ -7,13 +7,11 @@
 
 ## Supantha
 ### Solution:
-
-
-### Simulation: [click here](/phase-1/q1/)
-- Output Waveform
+<img width="1532" height="3014" alt="image" src="https://github.com/user-attachments/assets/e1daeca4-3601-4a4b-bb0a-b04a9750e21a" />
 
 ## Aditya
 ### Solution:
+-Pending
 
 
 ### Simulation: [click here](/phase-1/q1/)
