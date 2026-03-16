@@ -11,7 +11,7 @@
 
 ## Aditya
 ### Solution:
--Pending
+- Pending
 
 
 ### Simulation: [click here](/phase-1/q1/)
