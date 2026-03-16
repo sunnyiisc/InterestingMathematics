@@ -14,6 +14,8 @@
 
 ## Supantha
 ### Solution:
+<img width="1584" height="1794" alt="image" src="https://github.com/user-attachments/assets/382abdf6-5092-410f-b9c7-334395b68ee0" />
+
 
 
 ### Simulation: [click here](/phase-1/q1/)
