@@ -7,7 +7,7 @@
 
 ## Aditya
 ### Solution:
---pending
+- pending
 
 ## Supantha
 ### Solution:
