@@ -3,11 +3,11 @@
 
 ------
 ## 1. (14th March 2026) Find the 
-
+![PHOTO-2026-03-14-14-03-56](https://github.com/user-attachments/assets/b80fe6a7-bfda-45f7-9685-b900876f0615)
 
 ## Aditya
 ### Solution:
-
+--pending
 
 ### Simulation: [click here](/phase-1/q1/)
 - Output Waveform
