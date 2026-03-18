@@ -7,7 +7,7 @@
 
 ## Aditya
 ### Solution:
-- pending
+- Pending
 
 ## Supantha
 ### Solution:
@@ -15,21 +15,16 @@
 
 
 ------
-## 2. (16th March 2026) Find the 
+## 2. (16th March 2026) Find the Area of the Square.
+![PHOTO-2026-03-17-20-11-39](https://github.com/user-attachments/assets/52864a59-2334-425e-82c6-1ba573800e94)
 
 
 ## Aditya
 ### Solution:
-
-
-### Simulation: [click here](/phase-1/q1/)
-- Output Waveform
+- Pending
 
 ## Supantha
 ### Solution:
-
-
-### Simulation: [click here](/phase-1/q1/)
-- Output Waveform
+<img width="1246" height="1682" alt="image" src="https://github.com/user-attachments/assets/d4596321-89e0-45b1-b2b9-08a37535800b" />
 
 ------
