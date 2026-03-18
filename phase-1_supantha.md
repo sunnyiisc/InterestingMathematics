@@ -19,14 +19,11 @@
 
 ## Supantha
 ### Solution:
-
-
-### Simulation: [click here](/phase-1/q1/)
-- Output Waveform
+<img width="1664" height="3524" alt="image" src="https://github.com/user-attachments/assets/d79dd782-7fde-4b3a-a2a5-32c055cadfcc" />
 
 ## Aditya
 ### Solution:
-
+- Pending
 
 ### Simulation: [click here](/phase-1/q1/)
 - Output Waveform
