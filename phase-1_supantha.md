@@ -29,3 +29,16 @@
 - Output Waveform
 
 ------
+## 3. (18th March 2026) Find the maximum value of $a$ if
+$\frac{1}{(20-a)(40-a)} + \frac{1}{(40-a)(60-a)} + ... + \frac{1}{(180-a)(200-a)}$
+
+## Supantha
+### Solution:
+
+
+## Aditya
+### Solution:
+- Pending
+
+### Simulation: [click here](/phase-1/q1/)
+- Output Waveform
