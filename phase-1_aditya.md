@@ -32,13 +32,13 @@
 ![PHOTO-2026-03-19-10-28-03](https://github.com/user-attachments/assets/ba9b6193-6ca1-4c52-8a55-3119b9acf28c)
 
 
-
 ## Aditya
 ### Solution:
 - Pending
 
 ## sunnyiisc
 ### Solution:
-- Pending
+<img width="1766" height="4134" alt="image" src="https://github.com/user-attachments/assets/4f33b06f-4c25-4f36-a9fb-396b6a0bad8d" />
+
 
 ------
