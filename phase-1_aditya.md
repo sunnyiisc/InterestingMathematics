@@ -9,7 +9,7 @@
 ### Solution:
 - Pending
 
-## Supantha
+## sunnyiisc
 ### Solution:
 <img width="1584" height="1794" alt="image" src="https://github.com/user-attachments/assets/382abdf6-5092-410f-b9c7-334395b68ee0" />
 
@@ -23,8 +23,22 @@
 ### Solution:
 - Pending
 
-## Supantha
+## sunnyiisc
 ### Solution:
 <img width="1246" height="1682" alt="image" src="https://github.com/user-attachments/assets/d4596321-89e0-45b1-b2b9-08a37535800b" />
+
+------
+## 3. (18th March 2026)
+![PHOTO-2026-03-19-10-28-03](https://github.com/user-attachments/assets/ba9b6193-6ca1-4c52-8a55-3119b9acf28c)
+
+
+
+## Aditya
+### Solution:
+- Pending
+
+## sunnyiisc
+### Solution:
+- Pending
 
 ------
