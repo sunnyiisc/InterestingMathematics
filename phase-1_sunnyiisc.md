@@ -40,5 +40,17 @@ $\frac{1}{(20-a)(40-a)} + \frac{1}{(40-a)(60-a)} + ... + \frac{1}{(180-a)(200-a)
 ### Solution:
 - Pending
 
+------
+## 4. (20th March 2026) 
+<img width="1454" height="250" alt="image" src="https://github.com/user-attachments/assets/0e8c38e4-bc64-4ce5-8bd7-6ac13d2b5196" />
+
+## sunnyiisc
+### Solution:
+- Pending
+
+## Aditya
+### Solution:
+- Pending
+
 ### Simulation: [click here](/phase-1/q1/)
 - Output Waveform
