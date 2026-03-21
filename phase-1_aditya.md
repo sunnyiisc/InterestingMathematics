@@ -40,5 +40,18 @@
 ### Solution:
 <img width="1766" height="4134" alt="image" src="https://github.com/user-attachments/assets/4f33b06f-4c25-4f36-a9fb-396b6a0bad8d" />
 
+------
+
+------
+## 4. (20th March 2026)
+![PHOTO-2026-03-21-16-45-51](https://github.com/user-attachments/assets/656aa30e-4de1-4365-b602-b565ef7dc35c)
+
+
+## Aditya
+### Solution:
+- Pending
+
+## sunnyiisc
+### Solution:
 
 ------
