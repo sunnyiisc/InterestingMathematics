@@ -46,7 +46,19 @@ $\frac{\sqrt{2} sin \alpha}{\sqrt{1 + cos 2\alpha}} = \frac{1}{7}$ and $\sqrt{\f
 where $\alpha,\beta \epsilon (0,\frac{\pi}{2})$
 
 ## sunnyiisc
+### Solution: 1
+- Pending
+
+## Aditya
 ### Solution:
+- Pending
+
+------
+## 5. (22nd March 2026) 
+If P is a point on the circle $x^2 + y^2 = 4$, Q is a point on the straight line $5x+y+2=0$ and $x-y+1=0$ is the perpendicular bisector of $PQ$. Find the value of 13 times the sum of abscissa of all such points P.
+
+## sunnyiisc
+### Solution: 2
 - Pending
 
 ## Aditya
