@@ -40,7 +40,6 @@
 ### Solution:
 <img width="1766" height="4134" alt="image" src="https://github.com/user-attachments/assets/4f33b06f-4c25-4f36-a9fb-396b6a0bad8d" />
 
-------
 
 ------
 ## 4. (20th March 2026)
@@ -53,5 +52,16 @@
 
 ## sunnyiisc
 ### Solution:
+<img width="1646" height="1624" alt="image" src="https://github.com/user-attachments/assets/e867a4ce-6953-49d7-be4c-2fd7f4e74b91" />
 
 ------
+## 5. (22nd March 2026)
+
+
+## Aditya
+### Solution:
+- Pending
+
+## sunnyiisc
+### Solution:
+- Pending
