@@ -46,8 +46,9 @@ $\frac{\sqrt{2} sin \alpha}{\sqrt{1 + cos 2\alpha}} = \frac{1}{7}$ and $\sqrt{\f
 where $\alpha,\beta \epsilon (0,\frac{\pi}{2})$
 
 ## sunnyiisc
-### Solution: 1
-- Pending
+### Solution:
+<img width="1744" height="1368" alt="image" src="https://github.com/user-attachments/assets/cf21ab46-1069-4bf0-b067-7baea37ca3fe" />
+
 
 ## Aditya
 ### Solution:
