@@ -41,8 +41,9 @@ $\frac{1}{(20-a)(40-a)} + \frac{1}{(40-a)(60-a)} + ... + \frac{1}{(180-a)(200-a)
 - Pending
 
 ------
-## 4. (20th March 2026) 
-<img width="1454" height="250" alt="image" src="https://github.com/user-attachments/assets/0e8c38e4-bc64-4ce5-8bd7-6ac13d2b5196" />
+## 4. (20th March 2026) Find the value of $tan(\alpha+2\beta)$ considering the following conditions:
+$\frac{\sqrt{2} sin \alpha}{\sqrt{1 + cos 2\alpha}} = \frac{1}{7}$ and $\sqrt{\frac{1-cos 2\beta}{2}} = \frac{1}{\sqrt{10}}$
+where $\alpha,\beta \epsilon (0,\frac{\pi}{2})$
 
 ## sunnyiisc
 ### Solution:
