@@ -47,7 +47,8 @@ where $\alpha,\beta \epsilon (0,\frac{\pi}{2})$
 
 ## sunnyiisc
 ### Solution:
-<img width="1744" height="1368" alt="image" src="https://github.com/user-attachments/assets/cf21ab46-1069-4bf0-b067-7baea37ca3fe" />
+<img width="1684" height="1176" alt="image" src="https://github.com/user-attachments/assets/b3e5eb8b-70a8-4cb9-baf8-7d1f38d39501" />
+
 
 
 ## Aditya
